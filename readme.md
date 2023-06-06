@@ -1,5 +1,9 @@
 # Instalaciones necesarias
 Antes de todas las instalaciones necesitamos que instales python y visual studio
+```
+https://www.python.org/downloads/
+https://code.visualstudio.com/download
+```
 1. Verificar nuestra version de python
 ```
 python --version  |  py --version
